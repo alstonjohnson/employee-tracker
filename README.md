@@ -12,7 +12,7 @@ N/A
 
 Use of this site is for tracking salaries. We can also see the average of all salaries my inspecting the Console. The Console will also pull a randome employe's name. 
 
-Link to deployed site:
+Link to deployed site: [Deployed link](alstonjohnson.github.io/employee-tracker/)
 
 ## Credits
 
